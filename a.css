@@ -1,0 +1,115 @@
+body{
+    background-color:rebeccapurple;
+}
+      
+h1{
+    padding-bottom:50px
+}
+.o{
+    /* color: transparent; */
+   
+    padding-right: 75px;
+
+    
+    
+}
+.lo{
+    padding-bottom: 50px;
+}   
+.n{
+    margin-top: 10px;
+    margin-left: 60px;
+   margin-bottom:20px; 
+   background-color:transparent;
+   border: none;
+   outline: none;
+   border-bottom: 1px solid black;
+}
+p{
+    margin-top: px;
+    margin-right: 40px;
+  }
+.na{
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+   }
+a{
+    color: white;
+    margin-right: 15px;
+}
+a:hover{
+    color: gray;
+    /* background-color: grey; */
+}
+.le{
+    margin-top: 100px;
+    border: 30px;
+    background:rgba(182, 161, 161, 0.418);
+    height: 450px;
+    width: 300px;
+    margin-right: 100px;
+    box-shadow: 50px ;color:black ;
+    border-radius: 30px;
+}
+.a{
+    margin-left:800px ;
+    margin-bottom: 50px;
+}
+.e{
+    color: black;
+}
+.p{
+    color: rgb(0, 0, 0);
+    margin-right: 15px;
+    margin-top: 25px;
+    border: none;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+.p:hover{
+    color:white;
+    border: solid;
+    border-radius:100px;
+    border-color: grey;
+    background-color: grey;
+}
+.lx{
+    padding-bottom: 1px;
+    height:5px;
+    
+}
+.mm{
+    padding-top: 80px;
+    color: grey;
+    
+}
+ul {
+   
+    margin-right: 50px;
+    
+}
+.li{
+    display: inline;
+    border: none;
+    background-color: transparent;
+}
+.li:hover{/*hover using pointer-events: ;*/
+    color: black;
+    background-color: grey;
+    border: solid ; 
+    border-radius:100px ;
+    border-color:gray ;
+}
+*{
+    margin: 0;
+}
+/* 
+.b{
+    color: rebeccapurple;
+    margin-right: 100px ;
+    padding: 200px;
+} */
